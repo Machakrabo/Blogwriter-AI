@@ -1,4 +1,4 @@
-# BlogWriter-AI (Agent for good)
+#  Agents Intensive - Capstone Project: Blog Writer-AI (Agent for good)
 
 ## Category 1: 
 ### The Pitch (Problem, Solution, Value):
@@ -76,3 +76,5 @@ You are here!
 * **[huggingface](https://huggingface.co/datasets?sort=trending&search=sales)**  generates API key  which is used for LLMs.
 * **[GoogleAI Studio](https://aistudio.google.com/api-keys)** generates Google API key and uses Gemini flash model in all agents.
 
+# Future Scopes :
+Deployment of agent using [Agent Engine](https://cloud.google.com/agent-builder/agent-engine/overview) or a similar Cloud-based runtime (e.g. [Cloud Run](https://docs.cloud.google.com/run/docs/overview/what-is-cloud-run)).
