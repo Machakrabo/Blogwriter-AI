@@ -1,0 +1,5 @@
+pip install google-adk
+pip install python-dotenv
+pip install transformers
+pip install torch
+pip install transformers torch langchain

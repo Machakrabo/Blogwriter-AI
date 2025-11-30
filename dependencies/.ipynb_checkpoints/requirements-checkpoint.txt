@@ -1,0 +1,3 @@
+pip install google-adk
+pip install python-dotenv
+pip install arxiv
