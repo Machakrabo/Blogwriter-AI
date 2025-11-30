@@ -46,10 +46,10 @@ Blogwriter-AI/
 #### Architecture:
 ![Blog Writer AI Pipeline](src/images/pipeline.png)
 
-As recommended by [Agents Intensive - Capstone Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project/overview) following ppooints are included :
-* **1. Multi-Agent System**
-* **2. Custom Tool**
-* **3.Memory & Sessions**
+As recommended by [Agents Intensive - Capstone Project](https://www.kaggle.com/competitions/agents-intensive-capstone-project/overview) the following points are included :
+* **Multi-Agent System**
+* **Custom Tool**
+* **Memory & Sessions**
   
 The Blog Writer AI project is designed around a **parallel agent-based architecture** to automate the end-to-end process of blog creation. Unlike a sequential pipeline, multiple agents can operate concurrently or independently when possible, enabling faster processing and greater flexibility.
 
